@@ -1,0 +1,30 @@
+button {
+  width: 100px;
+  height: 40px;
+  margin: 10px;
+  margin-top: 40px;
+  font-size: larger;
+  border-radius: 10px;
+  text-align: center;
+}
+body {
+  background-color: darkcyan;
+}
+
+span {
+  font-size: larger;
+}
+option {
+  font-size: larger;
+}
+select {
+  font-size: larger;
+}
+
+.choice:hover {
+  background-color: darkgrey;
+}
+
+input {
+  size: 10px;
+}
